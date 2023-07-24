@@ -1,0 +1,79 @@
+{
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "forge-43.2.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Builder's Toolset",
+  "version": "1.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 238222,
+      "fileID": 4615177,
+      "required": true
+    },
+    {
+      "projectID": 417768,
+      "fileID": 3927257,
+      "required": true
+    },
+    {
+      "projectID": 243121,
+      "fileID": 4587248,
+      "required": true
+    },
+    {
+      "projectID": 401273,
+      "fileID": 4103964,
+      "required": true
+    },
+    {
+      "projectID": 495476,
+      "fileID": 4600775,
+      "required": true
+    },
+    {
+      "projectID": 250363,
+      "fileID": 4100299,
+      "required": true
+    },
+    {
+      "projectID": 526854,
+      "fileID": 3836016,
+      "required": true
+    },
+    {
+      "projectID": 852663,
+      "fileID": 4500775,
+      "required": true
+    },
+    {
+      "projectID": 628539,
+      "fileID": 4616032,
+      "required": true
+    },
+    {
+      "projectID": 375573,
+      "fileID": 4618320,
+      "required": true
+    },
+    {
+      "projectID": 499980,
+      "fileID": 4620027,
+      "required": true
+    },
+    {
+      "projectID": 362528,
+      "fileID": 3941638,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
